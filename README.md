@@ -5,5 +5,7 @@ react-native run-android
 
 
 Todo:
-[X] Make a custom component
-[ ] Visually improve the home page
+<ul>
+<li>[X] Make a custom component</li>
+<li>[ ] Visually improve the home page</li>
+</ul>
