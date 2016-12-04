@@ -1,6 +1,6 @@
 To start the app:
-react-native run-ios
-react-native run-android
+<code>react-native run-ios</code>
+<code>react-native run-android</code>
 
 
 
